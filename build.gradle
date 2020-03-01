@@ -36,4 +36,6 @@ jar {
         attributes 'Main-Class': 'ohtu.ohtuvarasto.Main'
     }
 }
+//ohtu20-viikko1-t8
+apply plugin: "jacoco"
 
