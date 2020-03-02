@@ -39,3 +39,10 @@ jar {
 //ohtu20-viikko1-t8
 apply plugin: "jacoco"
 
+//ohtu20-t13 codecov
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        html.enabled true
+    }
+}
