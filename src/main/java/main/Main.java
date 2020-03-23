@@ -12,26 +12,5 @@ public class Main {
         System.out.println("Luonnin jälkeen:");
         System.out.println("Mehuvarasto: " + mehua);
         System.out.println("Olutvarasto: " + olutta);
-
-        System.out.println("Luonnin jälkeen:");
-        System.out.println("Mehuvarasto: " + mehua);
-        System.out.println("Olutvarasto: " + olutta);
-
-        System.out.println("Luonnin jälkeen:");
-        System.out.println("Mehuvarasto: " + mehua);
-        System.out.println("Olutvarasto: " + olutta);
-
-        System.out.println("Luonnin jälkeen:");
-        System.out.println("Mehuvarasto: " + mehua);
-        System.out.println("Olutvarasto: " + olutta);
-
-        System.out.println("Luonnin jälkeen:");
-        System.out.println("Mehuvarasto: " + mehua);
-        System.out.println("Olutvarasto: " + olutta);
-
-        System.out.println("Luonnin jälkeen:");
-        System.out.println("Mehuvarasto: " + mehua);
-        System.out.println("Olutvarasto: " + olutta);
-        
     }
 }
